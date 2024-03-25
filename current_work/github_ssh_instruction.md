@@ -6,10 +6,10 @@ If you want to establish your connection to remote server (here github.com) with
 
 We will need git and ssh for further work. You can check whether you have it or now.
 
-'''shell
-$ git --version
-$ ssh-keygen --help
-'''
+```shell
+git --version
+ssh-keygen --help
+```
 
 If you are missing something you can install it on
 
@@ -19,15 +19,15 @@ If you are missing something you can install it on
 
 For Ubuntu/Debian
 
-'''shell
+```shell
 # keygen
 $ sudo apt-get install openssh-client
-'''
+```
 
-'''shell
+```shell
 # git
 $ sudo apt-get install git
-'''
+```
 
 </details>
 
@@ -39,9 +39,9 @@ SSH is installed in MacOS by default, git is too provided with xcode
 
 If you want to install git anyway, you can do it with brew:
 
-'''shell
-$ brew install git
-'''
+```shell
+brew install git
+```
 
 </details>
 
