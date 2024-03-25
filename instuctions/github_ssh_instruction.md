@@ -1,6 +1,6 @@
 # Why would you need to read this instruction?
 
-If you want to establish your connection to remote server (here [github](github.com)) without pasting your difficult password or access token. You prefer to work from terminal or your preferred IDE.
+If you want to establish your connection to remote server (here [github](https://github.com/)) without pasting your difficult password or access token. You prefer to work from terminal or your preferred IDE.
 
 # Setup
 
@@ -70,15 +70,9 @@ $ cat ~/.ssh/github_ed25519.pub
 
 </details>
 
-<details>
-
-<summary>Image</summary>
-
 [keygen example](pics/keygen.png)
 
-</details>
-
-- go to [github](github.com)
+- go to [github](https://github.com/)
 
 - go to your profile in the upper right corner -> Settings -> SSH and GPG keys -> New SSH key
 
@@ -86,15 +80,9 @@ $ cat ~/.ssh/github_ed25519.pub
 
 </details>
 
-<details>
-
-<summary>Image</summary>
-
 [Add SSH to github](pics/SSH_githb.png)
 
-</details>
-
-- Create SSH Config file on your PC so you could use your new key to authorize on [github](github.com)
+- Create SSH Config file on your PC so you could use your new key to authorize on [github](https://github.com/)
 
 ```shell
 $ cat ~/.ssh/config
