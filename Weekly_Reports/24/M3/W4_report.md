@@ -15,7 +15,7 @@
 ## Current week
 
 - Wrote an instruction on ssh connection to github, can be seen [here](https://github.com/TimuJ/Unilab/blob/97be0f96cf135db84bb502484ae06becce06376a/instuctions/github_ssh_instruction.md)
-- Working on mathematical understatement of diffusion, including reading introduction to convex by Nesterov and Understanding diffusion model by Luo, solved some convex problems in playground
+- Working on mathematical understatement of diffusion, including reading introduction to convex by Nesterov and Understanding diffusion model by Luo, solved some convex problems in playground [results here](https://www.overleaf.com/project/6600fd80172526994a2755bf)
 - Still working on patent, work can be seen on [overleaf](https://www.overleaf.com/project/6604dec582caf95eac275b92)
 
 ## Next week
