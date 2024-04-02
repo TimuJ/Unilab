@@ -12,14 +12,14 @@
 
 ## Current week
 
-- Changed the patent template to word format, new version can be seen here [overleaf](https://www.overleaf.com/project/660b6b40ae2264c22252564c)
+- Changed the patent template to word format, new version can be seen here [overleaf](https://github.com/TimuJ/Unilab/blob/66bb0053c35fb55095ea597496152a0be4c07e08/current_docs/dataset.docx)
 
 ## Next week
 
 # Highest priority
 
-- Wor on patent, as I understood the road is still long and it'll be good to finish it in second decade of April and start experiments at the end of April
+- Work on patent, as I understood the road is still long and it'll be good to finish it in second decade of April and start experiments at the end of April
 
 ### Other things
 
-- still need to practise thigns, cause consistency is key
+- still need to practice things, because consistency is key
