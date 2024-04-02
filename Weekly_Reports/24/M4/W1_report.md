@@ -12,7 +12,7 @@
 
 ## Current week
 
-- Changed the patent template, new version can be seen here [overleaf](https://www.overleaf.com/project/660b6b40ae2264c22252564c), also as an example refer to patent from google patent [google patents](https://patents.google.com/patent/CN112098714B/en?q=(resnet)&oq=resnet)
+- Changed the patent template to word format, new version can be seen here [overleaf](https://www.overleaf.com/project/660b6b40ae2264c22252564c)
 
 ## Next week
 
