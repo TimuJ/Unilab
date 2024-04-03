@@ -8,7 +8,7 @@
 
 ### Conclusion
 
-- Changed template for patent completely full attention to it
+- Changed it several times, couple of new ideas
 
 ## Current week
 
