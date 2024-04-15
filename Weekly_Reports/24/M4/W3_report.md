@@ -26,4 +26,4 @@
 
 ### Other things
 
-- elaborate on first part of the patent
+- гармоничную картинку мира «давайте модели будут тренировать другие модели», особенно в задачках, где понятно, как оценивать ответ. From Dario Amodei (CEO Anthropic, один из главных конкурентов OpenAI) для NYT it leads that he strongly believes that datasets for current models should be produced by other models and that concept shows that this is the right direction for planned patent and it can lead to an interesting paper
