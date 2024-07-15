@@ -16,7 +16,7 @@
 
 - Work on patent, need to concentrate on one point, this week is video to image part [github](https://github.com/TimuJ/Unilab/blob/66bb0053c35fb55095ea597496152a0be4c07e08/current_docs/dataset.docx)
 
-- two weeks for convex midterm project, need to put my time to it [overleaf](https://www.overleaf.com/project/6611f095829f725e48707b26)
+- 21st is the deadline for convex midterm project, need to put my time to it [overleaf](https://www.overleaf.com/project/6611f095829f725e48707b26)
 
 ## Next week
 
